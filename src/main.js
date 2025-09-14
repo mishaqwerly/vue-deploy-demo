@@ -11,3 +11,4 @@ app.use(router)
 
 app.mount('#app')
 console.log('Hello from Vue Deploy Demo!');
+// Test commit for auto-deployment
