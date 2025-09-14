@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <header class="header">
-      <h1>�� Vue Deploy Demo</h1>
+      <h1>Vue Deploy Demo</h1>
       <p>Цей додаток автоматично деплоїться при кожному пуші!</p>
     </header>
     
